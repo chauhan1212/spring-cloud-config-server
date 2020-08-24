@@ -1,1 +1,2 @@
-spring.cloud.config.server.git.uri: "C://Softwares"
+spring.cloud.config.server.git.uri: "C://Softwares//couldconfig"
+server.port: 8888
