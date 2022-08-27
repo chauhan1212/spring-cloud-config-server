@@ -15,6 +15,13 @@ public class SpringCloudConfigServerApplication {
 	 * 
 	 * Github Link:
 	 * https://github.com/chauhan1212/cloud-config.git
+	 * 
+	 * 
+	 * For Enctyption:
+	 * POST call:
+	 * localhost:8888/encrypt
+	 * 
+	 * 
 	 */
 	public static void main(String[] args) {
 		SpringApplication.run(SpringCloudConfigServerApplication.class, args);
