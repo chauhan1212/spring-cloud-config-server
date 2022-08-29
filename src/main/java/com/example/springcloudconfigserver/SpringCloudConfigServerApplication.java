@@ -9,6 +9,8 @@ import org.springframework.cloud.config.server.EnableConfigServer;
 public class SpringCloudConfigServerApplication {
 
 	/*
+	 * 11 Set up spring cloud config server from scratch
+	 * 
 	 * http://localhost:8888/application/default
 	 * 
 	 * http://localhost:8888/spring-boot-config/default
